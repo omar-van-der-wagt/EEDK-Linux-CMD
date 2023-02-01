@@ -6,7 +6,7 @@ Command line: max characters 254 can be given in ePO.
 Run this to build the package for ePO.
 
 
-# EEDK_PowerShell_template
+## EEDK_PowerShell_template
 Based on the work from Steen Pedersen https://github.com/SteenPedersen/EEDK_PowerShell_template
 <!-- blank line -->
 ----

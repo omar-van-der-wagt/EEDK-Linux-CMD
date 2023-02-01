@@ -19,67 +19,67 @@
     <OSType>
       <Name>Windows (All Versions)</Name>
       <Type>W2KW|WXPHE|WXPW|WXPE|WVST|WNT7W|W2KS|W2KAS|W2KDC|WXPS|WVSTS|WIN8W|WIN8S|WINXW|WINXS</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows 2000 Workstation</Name>
       <Type>W2KW</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows XP</Name>
       <Type>WXPHE|WXPW</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows XP Embedded</Name>
       <Type>WXPE</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows Vista</Name>
       <Type>WVST</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows 7</Name>
       <Type>WNT7W</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows 8</Name>
       <Type>WIN8W</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows 10</Name>
       <Type>WINXW</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows Server 2000</Name>
       <Type>W2KS|W2KAS|W2KDC</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows Server 2003</Name>
       <Type>WXPS</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows Server 2008</Name>
       <Type>WVSTS</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows Server 2012</Name>
       <Type>WIN8S</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Windows 10 Server</Name>
       <Type>WINXS</Type>
-      <Selected>true</Selected>
+      <Selected>false</Selected>
     </OSType>
     <OSType>
       <Name>Macintosh</Name>
@@ -89,7 +89,7 @@
     <OSType>
       <Name>Linux</Name>
       <Type>LINUX</Type>
-      <Selected>false</Selected>
+      <Selected>true</Selected>
     </OSType>
     <OSType>
       <Name>AIX</Name>
